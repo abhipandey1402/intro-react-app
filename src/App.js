@@ -1,7 +1,6 @@
 import './App.css';
 import Card from "./Card";
 import NewChat from "./NewChat";
-import dog from "./assets/dog.jpeg";
 
 function App() {
   return (
